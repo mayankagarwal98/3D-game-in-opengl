@@ -4,3 +4,16 @@
 2. run cmake ..
 3. run make
 4. execute the executible ./graphics_asgn1
+
+It will show like this
+
+
+
+
+
+
+
+
+
+
+![](image.png)
