@@ -1,0 +1,3 @@
+/home/agarwal98/3D-game-in-opengl/build/CMakeFiles/rebuild_cache.dir
+/home/agarwal98/3D-game-in-opengl/build/CMakeFiles/graphics_asgn1.dir
+/home/agarwal98/3D-game-in-opengl/build/CMakeFiles/edit_cache.dir
